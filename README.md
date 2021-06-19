@@ -1,18 +1,16 @@
-# Pin that!
+# Death Location Reborn
 
-This mod allows you to pin text to any corner on the HUD.
+This mod shows you your Death Location!
 
 ## Usage:
 
-To change the pinned message you can open the config via [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu),
-or you use the following chat commands:
+   To remove the message use the following command:
 
--   `/pin set Your_Message` to change to message
--   `/pin clear` to clear the current message
+-   `/deathlocation clear` to clear the current location
 
 ## Setup:
 
-1. Download the mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pin-that).
+1. Download the mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/death-location-reborn).
 2. Drop the .jar file into the mods folder.
 
 ## License
