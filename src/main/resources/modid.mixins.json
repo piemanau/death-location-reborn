@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.limeshulkerbox.deathlocationreborn.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "GetDeathLocationMixin",
+    "InGameHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

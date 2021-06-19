@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.deathlocation.option.whatCorner": "Which corner to render in?",
+    "text.autoconfig.deathlocation.option.deathMessage": "Last Death Location",
+    "text.autoconfig.deathlocation.option.textColour": "Text colour",
+    "text.autoconfig.deathlocation.option.messageEnabled": "Is last Death Location enabled?",
+    "text.autoconfig.deathlocation.option.xOffset": "X Offset",
+    "text.autoconfig.deathlocation.option.yOffset": "Y Offset",
+    "text.autoconfig.deathlocation.title": "Death Location Config"
+}

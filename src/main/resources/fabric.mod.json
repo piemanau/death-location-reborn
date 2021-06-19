@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "deathlocation",
+  "version": "${version}",
+  "name": "Death Location Reborn",
+  "description": "This mod shows your Death Location!",
+  "authors": [
+    "LimeShulkerBox"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/death-location-reborn",
+    "sources": "https://github.com/LimeShulkerBox/death-location-reborn",
+    "issues": "https://github.com/LimeShulkerBox/death-location-reborn/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/deathlocationreborn/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.limeshulkerbox.deathlocationreborn.ModInitializer"
+    ],
+    "modmenu": [
+      "com.limeshulkerbox.deathlocationreborn.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "fabric-command-api-v1": ">=1.1.0"
+  }
+}
